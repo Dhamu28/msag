@@ -1,3 +1,6 @@
+body { 
+  background-color: #FF482A;
+}
 .head_banner{
     height: auto;
     max-width: 97.5%;
@@ -7,7 +10,7 @@
     margin-right: auto;
 }   
 .foot_banner{
-    max-width: 97.5%;
+    max-width: 100%;
     position: relative;
     margin-left: auto;
     margin-right: auto;
@@ -16,3 +19,6 @@
     margin: -25px 20px 12px; 
     position: relative;
 }
+
+
+
